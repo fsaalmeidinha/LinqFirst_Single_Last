@@ -1,0 +1,5 @@
+C:\Users\Felipe\Desktop\LinqFirst_Single_Last\LinqFirst_Single_Last\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\LinqFirst_Single_Last\LinqFirst_Single_Last\bin\Debug\LinqFirst_Single_Last.exe
+C:\Users\Felipe\Desktop\LinqFirst_Single_Last\LinqFirst_Single_Last\bin\Debug\LinqFirst_Single_Last.pdb
+C:\Users\Felipe\Desktop\LinqFirst_Single_Last\LinqFirst_Single_Last\obj\x86\Debug\LinqFirst_Single_Last.exe
+C:\Users\Felipe\Desktop\LinqFirst_Single_Last\LinqFirst_Single_Last\obj\x86\Debug\LinqFirst_Single_Last.pdb
